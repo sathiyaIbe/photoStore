@@ -9,7 +9,7 @@ import { converBase64ToImage } from 'convert-base64-to-image'
 import cors from 'cors';
 const app = express();
 app.use(cors({
-    origin: ['http://localhost:3000','https://liveimageeditor.netlify.app/'],
+    origin: ['http://localhost:3000','https://liveimageeditor.netlify.app'],
     credentials: true 
 }));
 // app.use(json());
@@ -55,7 +55,7 @@ app.post('/upload', async(req,res)=>{
                 body:fs.createReadStream(pathToSaveImage)
          }
         })
-
+        res.json({message:"Successfully saved image"})
         //     const response=await drive.files.create({
         //     requestBody:{
         //         name:file.orginalname,
@@ -72,7 +72,7 @@ app.post('/upload', async(req,res)=>{
          
     
   } catch (error) {
-    console.log(error)
+    res.status(error.status);
   }
 })
 
