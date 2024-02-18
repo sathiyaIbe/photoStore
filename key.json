@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fair-smoke-377206",
+  "private_key_id": "09ff7475b8c7fe6789b949a62f1afbe6ef0f1595",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7LiaczfxWBroa\nHAF9sfxGyoAJZjm839cTisXWEYcBo/fbwyJz7fDh7UHhjf/nLVwEfPXp0Z+4xceR\nfABtGSnaYmW2sqhinMGR0DfGcy8aa1JA1k1xAE6CKibsUdcVMFHqqCEM12y31m5D\ncoUunxKdsnegEpy+IAanIzbU48K6BjnwL02YUK4vFW4p20Ect/qNAO4icyZldFRr\n+df/vKo3fcbjTgy2wO85LChu3ir7AZWjCacCqi8b0M1yt4fQMPeT///k2EotfYd3\nluHYqLPqgSop+mvA+F2xsekKsSxu6IBeI3ShxH2HC7kacoR1yuo9+YG8SrTUw6t2\nsjDlG0YjAgMBAAECggEAH3hOaJ2fN61w25Pq0kG66wH/zdTAj1dI91GlGm0e+DEj\nqnCf2cLe9XUo1u3DYRA4wM5rn/Cs/GlQOM8S2UTaSwuxEyrtcYruZoAN6JEUEcqK\nbTk6ku2cxXily6Sk1zylASFcUSbk8fGc3z0hVCnNfPL09tY6QSLsS2x5uwhCBHle\n1FxJTedmnxZXut1tkvOdiGyTcdacTParbZvygRJPk+SUQlKQMD5rwCUxPR3AlpXd\nsngwVyKperRSrSD+ekQekAnIut7jhy+2gZx3sS1eMCEyVyLrNXFiq9fQAReHmdvq\nZ3L6LXQ8Oej14SQqdU+O5RIAMH1wF6trpp1wR1sP5QKBgQDlE2p9XMfHccJYoDfM\nfH7OJN/gggzEBsEJdGq0sB/4PRahXNZx0sJF1jEXAiIS+J+mClVZJT4zfUSOG5Ip\nBVC3Id9H1h3h7H4bhmgmUcmI6putBQ/cJQKPribTsxlkWTyvPCSsVwt9pB4LRy+q\nGn29ESXqAFb2vh7MBgER588erwKBgQDRLidR/PM9vP0N3Z/eDSZgt2ZZw+ZRL9mz\nWW8MtEa0OiESAuM2IXfuCmFqPWV5Vr65fTi3l//ls5QyM/Fq2D6kdoi9zeRStu0Y\n8ajRfat56aodrlZYcbIrPsQpDuHkd5bIy4ixxLl+sT0qjYBE0FQ5HT0654MjgzD8\nzoTXFgiMzQKBgQCQiI2aB14tosMitARAyxQe8PkoaCWx0Ske1As3ciDZuYF70l2j\nd30IHzrd74ScP65LTx3Gn079ob4Ng6vWofnpcj+0zY4RK+vtZgJ0mwnzj0MmCZmW\nJuvUx+bLj6cnv34gemwRKOKhJVmneATE6O4IyrcHS6uTByXbSLaIG6B9FQKBgBT+\n3u95xihiObwUjKFLDJkUj29fHFT1ypIX3e+WgKpCU2NtasTaIyF/ZTu2oeLF9CrG\nCNVUqlix56QKVqb0wYTcaOk0K0CqH64rQ1iTloyMCYklIIGMF+gDSskcN0wpPLc2\nxqehKUUwIQWOYluF1Y5OAwFQj3cXCem2CNtV2NHZAoGBAIGC7MM0dt2n2QdxQ+Zr\nPkXHiRWVqE8A4PxGeeaK9pkTYQ3jRed49B3Qo6D+ehETDpUlI3cIIAIL8G22EH6e\nb6gGWJ96VRUsC1WIC5IF5KQr614EK/35pQrozW0nlbszMBPol/SHCZBQ8/XaSDzB\nQeMPTcx3uVshOw9FNc27+zId\n-----END PRIVATE KEY-----\n",
+  "client_email": "teststorage@fair-smoke-377206.iam.gserviceaccount.com",
+  "client_id": "115025588650158284685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teststorage%40fair-smoke-377206.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
