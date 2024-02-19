@@ -49,8 +49,8 @@ app.post('/upload', async(req,res)=>{
             requestBody:{
                 name:ms,
                 mimeType:"image/png",
-                parents:['12rXNMs_wwzAO4vyhTbMcPE1Ou_Q0EAei'] //Real one
-                // parents:['1h5n5wg2e3j9Cd7F-h0bBPJLtaNCrg_6a'] //Test one
+                // parents:['12rXNMs_wwzAO4vyhTbMcPE1Ou_Q0EAei'] //Real one
+                parents:['1h5n5wg2e3j9Cd7F-h0bBPJLtaNCrg_6a'] //Test one
 
             },
             media:{
